@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    margin-top: 70px;
+    background: #333;
+    color: #fff;
+}
+.container{
+    margin: 7% 40%;
+    display: flex;
+}
+.display{
+    font-weight: 200;
+    font-size: 30px;
+    margin: 5px 16px;
+    
+}
+.form-control{
+    width: 300px;
+    height: 30px;
+    margin-bottom: 7px;
+}
+.card1{
+    width: 300px;
+    height: 60px;
+    border: 1px solid green;
+    background: blue;
+    margin-bottom:4px ;
+}
+.card2{
+    width: 300px;
+    height: 60px;
+    border: 1px solid green;
+    background: rgb(46, 207, 46);
+    margin-bottom:4px ;
+}
+.card3{
+    width: 300px;
+    height: 60px;
+    border: 1px solid green;
+    background: red;
+}
+h4{
+    margin: 10px 5px;
+}
